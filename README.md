@@ -11,6 +11,9 @@ Flutter implementation of Prime Icons from: [PrimeNG](https://github.com/primefa
 
 ## installation
 
+```yaml
+prime_icons: ...
+```
 ## Usage
 
 ```dart
