@@ -17,11 +17,8 @@ class MyApp extends StatelessWidget {
           useMaterial3: true,
         ),
         home: const Scaffold(
-          body: Padding(
-            padding: EdgeInsets.symmetric(horizontal: 40, vertical: 20),
-            child: Center(
-              child: Icon(PrimeIcons.lock),
-            ),
+          body: Center(
+            child: Icon(PrimeIcons.lock),
           ),
         ));
   }
