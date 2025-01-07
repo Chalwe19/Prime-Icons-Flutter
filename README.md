@@ -7,7 +7,7 @@ Flutter implementation of Prime Icons from: [PrimeNG](https://github.com/primefa
 ---
 
 
-![Icons Preview](https://raw.githubusercontent.com/Chalwe19/Prime-Icons-Flutter/main/images/68747470733a2f2f7777772e7072696d6566616365732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032322f30392f7072696d6569636f6e732d362d302d6c6973742e706e67.png?token=GHSAT0AAAAAACN46JGJIMASRMUXTTKPJQWEZR3EIMA)
+![Icons Preview](https://github.com/Chalwe19/Prime-Icons-Flutter/blob/main/images/68747470733a2f2f7777772e7072696d6566616365732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032322f30392f7072696d6569636f6e732d362d302d6c6973742e706e67.png)
 
 ## installation
 
